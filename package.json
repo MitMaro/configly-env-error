@@ -1,0 +1,14 @@
+{
+  "name": "configly-env-error",
+  "version": "1.0.0",
+  "description": "Describe an error in configly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Oram <mitmaro@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "configly": "^4.0.0"
+  }
+}
